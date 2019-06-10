@@ -1,0 +1,88 @@
+
+
+body{
+	margin			:0;
+	padding			:0;
+}
+#container{
+	height			:100%;
+	width			:100%;
+	
+}
+#content{
+	width			:800px;
+	margin-left		:30%;		
+	
+}
+.btn{
+	height			:60px;
+	width			:225px;
+	float			:left;
+	border-radius	:10px; 
+	border			:1px solid black;
+}
+#feldTimerLable{
+	text-align		:center;
+	height			:58px;
+	width			:290px;
+	border			:1px solid black;
+	float			:left;
+	margin-left		:10px;
+	margin-right	:10px;
+	border-radius	:10px;
+}
+
+#area{
+	width			:762px;
+	background-color:rgb(250, 240, 230); 
+	margin-top		:20px;
+}
+.info{
+	height			:24px;
+	width			:240px;
+	background-color:white;
+	margin-top		:15px;
+	margin-left		:4px;
+	display			:inline-block;
+	border			:1px solid black;
+	border-radius	:5px;
+	text-align      :center;
+
+}
+.info_2{
+	height			:25px;
+	width			:20px;
+	float			:left;
+	background-color:white;
+	border			:1px solid black;
+	margin-top		:23px;
+	border-radius	:5px;
+	text-align      :center;
+}
+.info_3{
+	height			:25px;
+	width			:240px;
+	background-color:white;
+	margin-top		:23px;
+	margin-left		:4px;
+	display			:inline-block;
+	border			:1px solid black;
+	border-radius	:5px;
+}
+.clear{											/**clear zwingt ein Element an den linken and rechten Rand seiner Box zu positionieren.**/
+	clear			:both;  					/**Das beendet Umfließenden von Elementen, die mit float:left oder float: right posotioniert sind.**/
+}
+#img{
+	
+	margin-top		:50px;
+	
+}
+#imageFeld{
+	height			:87px;
+	width			:400px;
+	margin-bottom	:100px;
+	margin-left		:190px;
+	
+	
+}
+
